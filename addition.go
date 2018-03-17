@@ -19,3 +19,8 @@ func main() {
 func add(x, y int) int {
 	return x + y
 }
+
+// subtract performs substraction of two numbers.
+func subtract(x, y int) int {
+	return x - y
+}
